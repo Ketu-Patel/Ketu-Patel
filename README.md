@@ -4,8 +4,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently building side projects in **Python**, **TypeScript**, and **Java**
-- 🎮 I enjoy working on tools for games I play (League of Legends) and automation bots
+- 🔭 Currently building side projects in **Python** and **Rust**
+- 🎮 Built tools for games I play (League of Legends) and automation bots
 - 📊 Interested in personal finance tooling, data insights, and trading systems
 - 🌱 Always learning — currently exploring Rust + ML
 - 📫 Reach me: [@Ketu-Patel](https://www.linkedin.com/in/ketu-patel-rpi/)
