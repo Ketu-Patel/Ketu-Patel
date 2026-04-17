@@ -25,6 +25,7 @@
 ### 🚀 Featured Projects
 - **[LoL-Dodge-List](https://github.com/Ketu-Patel/LoL-Dodge-List)** — Analyzes your team's previous games in League of Legends and helps you decide whether to dodge.
 - **[RuneFinder](https://github.com/kcnair003/RuneFinder)** — A Discord bot that finds optimal runes for a selected League of Legends champion.
+- **[JAM (Job Application Manager)](https://github.com/JAMForHire/JAM-Final)** — Tracks your job applications, statuses, interviews, and deadlines in one place.
 - **[IronTherapy](https://github.com/web-sci-spring-2022-name-tbd/IronTherapy)** — A TypeScript app to manage, save, and view insights from your gym workouts.
 - **[Personal-Finance-Insights-Engine](https://github.com/Ketu-Patel/Personal-Finance-Insights-Engine)** — Auto-categorizes spending trends, queryable in plain English.
 - **[CAB (Crypto Arbitrage Bot)](https://github.com/crypto-arbitrage-bot/CAB)** — Python-based crypto arbitrage automation.
